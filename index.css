@@ -1,0 +1,44 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #D97706;
+   
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h3{
+    color:#78350F;
+}
+
+button{
+    background:
+#064E3B;
+    color:#E11D48;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.home{
+    background: #FBBF24;
+    font-size: 90px;
+    color: #D97706;
+    width: 120px;
+    margin: 20px
+    
+}
+.guest{
+    background:#FBBF24;
+    font-size: 90px;
+    color: #D97706;
+    width: 120px;
+    margin: 20px
+}
+
+
+
+
