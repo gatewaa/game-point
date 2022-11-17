@@ -17,8 +17,7 @@ h3{
 }
 
 button{
-    background:
-#064E3B;
+    background:#064E3B;
     color:#E11D48;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
@@ -28,7 +27,7 @@ button{
     font-size: 90px;
     color: #D97706;
     width: 120px;
-    margin: 20px
+    margin: 20px;
     
 }
 .guest{
@@ -36,8 +35,16 @@ button{
     font-size: 90px;
     color: #D97706;
     width: 120px;
-    margin: 20px
+    margin: 20px;
 }
+
+#winner-el{
+    color:#E11D48;
+    font-size: 40px;
+    font-weight: bold;
+    margin: -10px 10px 20px 10px;
+}
+
 
 
 
